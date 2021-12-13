@@ -5,3 +5,5 @@
 library (tidyverse)
 # Versão 6
 # Mutate
+# Join
+# Select
